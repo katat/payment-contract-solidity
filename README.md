@@ -3,15 +3,15 @@ A dapp solidity backend for a payment contract. For more details, please refer t
 
 ## Install
 
-    ```javascript
-    npm install
-    ```
+```javascript
+npm install
+```
 
 ## Compile
 
-    ```javascript
-    npm run compile
-    ```
+```javascript
+npm run compile
+```
 
 ## Test
 

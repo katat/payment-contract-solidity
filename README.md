@@ -1,5 +1,5 @@
 # Payment solidity contract
-A dapp solidity backend for a payment contract. For more details, please refer to the post [How blockchains offer real freedom to freelancers](https://medium.com/@katat/how-blockchains-offer-real-freedom-to-freelancers-4cde199423c0)
+A dapp solidity backend for a payment contract. For more details, please refer to the post [How blockchains offer real freedom to freelancers](https://medium.com/swlh/what-could-blockchains-offer-to-freelancers-61019a084f80)
 
 ## Install
 
